@@ -1,0 +1,7 @@
+ # Ignorar archivos y directorios específicos
+target/
+Dockerfile
+docker-compose.yml
+.git/
+.gitignore
+README.md
